@@ -1,0 +1,6 @@
+@SB.MediatrixPruebaTecnica.WebApi_HostAddress = http://localhost:5299
+
+GET {{SB.MediatrixPruebaTecnica.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
