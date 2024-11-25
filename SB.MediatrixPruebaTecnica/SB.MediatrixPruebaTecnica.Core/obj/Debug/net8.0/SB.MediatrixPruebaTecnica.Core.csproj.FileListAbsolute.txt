@@ -1,0 +1,12 @@
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Core\bin\Debug\net8.0\SB.MediatrixPruebaTecnica.Core.deps.json
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Core\bin\Debug\net8.0\SB.MediatrixPruebaTecnica.Core.dll
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Core\bin\Debug\net8.0\SB.MediatrixPruebaTecnica.Core.pdb
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Core\obj\Debug\net8.0\SB.MediatrixPruebaTecnica.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Core\obj\Debug\net8.0\SB.MediatrixPruebaTecnica.Core.AssemblyInfoInputs.cache
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Core\obj\Debug\net8.0\SB.MediatrixPruebaTecnica.Core.AssemblyInfo.cs
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Core\obj\Debug\net8.0\SB.MediatrixPruebaTecnica.Core.csproj.CoreCompileInputs.cache
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Core\obj\Debug\net8.0\SB.MediatrixPruebaTecnica.Core.sourcelink.json
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Core\obj\Debug\net8.0\SB.MediatrixPruebaTecnica.Core.dll
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Core\obj\Debug\net8.0\refint\SB.MediatrixPruebaTecnica.Core.dll
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Core\obj\Debug\net8.0\SB.MediatrixPruebaTecnica.Core.pdb
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Core\obj\Debug\net8.0\ref\SB.MediatrixPruebaTecnica.Core.dll

@@ -7,7 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.11" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="7.0.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SB.MediatrixPruebaTecnica.Application\SB.MediatrixPruebaTecnica.Application.csproj" />
+    <ProjectReference Include="..\SB.MediatrixPruebaTecnica.Infrastructure\SB.MediatrixPruebaTecnica.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

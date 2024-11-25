@@ -1,0 +1,16 @@
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Infrastructure\bin\Debug\net8.0\SB.MediatrixPruebaTecnica.Infrastructure.deps.json
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Infrastructure\bin\Debug\net8.0\SB.MediatrixPruebaTecnica.Infrastructure.dll
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Infrastructure\bin\Debug\net8.0\SB.MediatrixPruebaTecnica.Infrastructure.pdb
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Infrastructure\bin\Debug\net8.0\SB.MediatrixPruebaTecnica.Core.dll
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Infrastructure\bin\Debug\net8.0\SB.MediatrixPruebaTecnica.Core.pdb
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Infrastructure\obj\Debug\net8.0\SB.MediatrixPruebaTecnica.Infrastructure.csproj.AssemblyReference.cache
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Infrastructure\obj\Debug\net8.0\SB.MediatrixPruebaTecnica.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Infrastructure\obj\Debug\net8.0\SB.MediatrixPruebaTecnica.Infrastructure.AssemblyInfoInputs.cache
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Infrastructure\obj\Debug\net8.0\SB.MediatrixPruebaTecnica.Infrastructure.AssemblyInfo.cs
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Infrastructure\obj\Debug\net8.0\SB.MediatrixPruebaTecnica.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Infrastructure\obj\Debug\net8.0\SB.MediatrixPruebaTecnica.Infrastructure.sourcelink.json
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Infrastructure\obj\Debug\net8.0\SB.Media.4A01788A.Up2Date
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Infrastructure\obj\Debug\net8.0\SB.MediatrixPruebaTecnica.Infrastructure.dll
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Infrastructure\obj\Debug\net8.0\refint\SB.MediatrixPruebaTecnica.Infrastructure.dll
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Infrastructure\obj\Debug\net8.0\SB.MediatrixPruebaTecnica.Infrastructure.pdb
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Infrastructure\obj\Debug\net8.0\ref\SB.MediatrixPruebaTecnica.Infrastructure.dll

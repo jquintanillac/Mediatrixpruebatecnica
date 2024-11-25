@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "SB.MediatrixPruebaTecnica.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SB.MediatrixPruebaTecnica.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SB.MediatrixPruebaTecnica.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "SB.MediatrixPruebaTecnica.Core/1.0.0": {
+      "type": "project",
+      "path": "../SB.MediatrixPruebaTecnica.Core/SB.MediatrixPruebaTecnica.Core.csproj",
+      "msbuildProject": "../SB.MediatrixPruebaTecnica.Core/SB.MediatrixPruebaTecnica.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "SB.MediatrixPruebaTecnica.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\jquin\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Mediatrix\\SB.MediatrixPruebaTecnica\\SB.MediatrixPruebaTecnica.Core\\SB.MediatrixPruebaTecnica.Core.csproj": {
+              "projectPath": "D:\\Mediatrix\\SB.MediatrixPruebaTecnica\\SB.MediatrixPruebaTecnica.Core\\SB.MediatrixPruebaTecnica.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

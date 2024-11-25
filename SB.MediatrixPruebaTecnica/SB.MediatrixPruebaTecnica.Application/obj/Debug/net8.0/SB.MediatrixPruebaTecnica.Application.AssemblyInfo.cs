@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SB.MediatrixPruebaTecnica.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66754aea2a502d255ea445e5a6f8519c45809155")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+423cd047046d1369cfa62eee7a91fbe802faedf1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SB.MediatrixPruebaTecnica.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SB.MediatrixPruebaTecnica.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

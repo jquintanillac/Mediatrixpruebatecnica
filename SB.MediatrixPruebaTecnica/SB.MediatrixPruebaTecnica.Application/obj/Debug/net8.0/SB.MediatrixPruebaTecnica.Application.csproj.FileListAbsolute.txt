@@ -1,0 +1,16 @@
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Application\bin\Debug\net8.0\SB.MediatrixPruebaTecnica.Application.deps.json
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Application\bin\Debug\net8.0\SB.MediatrixPruebaTecnica.Application.dll
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Application\bin\Debug\net8.0\SB.MediatrixPruebaTecnica.Application.pdb
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Application\bin\Debug\net8.0\SB.MediatrixPruebaTecnica.Core.dll
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Application\bin\Debug\net8.0\SB.MediatrixPruebaTecnica.Core.pdb
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Application\obj\Debug\net8.0\SB.MediatrixPruebaTecnica.Application.csproj.AssemblyReference.cache
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Application\obj\Debug\net8.0\SB.MediatrixPruebaTecnica.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Application\obj\Debug\net8.0\SB.MediatrixPruebaTecnica.Application.AssemblyInfoInputs.cache
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Application\obj\Debug\net8.0\SB.MediatrixPruebaTecnica.Application.AssemblyInfo.cs
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Application\obj\Debug\net8.0\SB.MediatrixPruebaTecnica.Application.csproj.CoreCompileInputs.cache
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Application\obj\Debug\net8.0\SB.MediatrixPruebaTecnica.Application.sourcelink.json
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Application\obj\Debug\net8.0\SB.Media.43A305DB.Up2Date
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Application\obj\Debug\net8.0\SB.MediatrixPruebaTecnica.Application.dll
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Application\obj\Debug\net8.0\refint\SB.MediatrixPruebaTecnica.Application.dll
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Application\obj\Debug\net8.0\SB.MediatrixPruebaTecnica.Application.pdb
+D:\Mediatrix\SB.MediatrixPruebaTecnica\SB.MediatrixPruebaTecnica.Application\obj\Debug\net8.0\ref\SB.MediatrixPruebaTecnica.Application.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SB.MediatrixPruebaTecnica.Application/1.0.0": {
+        "dependencies": {
+          "SB.MediatrixPruebaTecnica.Core": "1.0.0"
+        },
+        "runtime": {
+          "SB.MediatrixPruebaTecnica.Application.dll": {}
+        }
+      },
+      "SB.MediatrixPruebaTecnica.Core/1.0.0": {
+        "runtime": {
+          "SB.MediatrixPruebaTecnica.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SB.MediatrixPruebaTecnica.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SB.MediatrixPruebaTecnica.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

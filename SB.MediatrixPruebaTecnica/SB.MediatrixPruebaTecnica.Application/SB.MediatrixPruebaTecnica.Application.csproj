@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SB.MediatrixPruebaTecnica.Core\SB.MediatrixPruebaTecnica.Core.csproj" />
+  </ItemGroup>
+
 </Project>
